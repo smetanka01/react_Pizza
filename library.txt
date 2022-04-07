@@ -1,0 +1,6 @@
+1) axios - делает запросы на сервер чуть легкими
+2) react-redux - есть useDispatch (mapDispatchToProps) , useSelector (mapStateToProps)
+3) redux-thunk - определяет асинхронные функции и выполняет их
+4) react-content-loader - для лоадера в виде блока
+5) prop-types - плагин для строгой типизации данных
+6) "dev": "json-server -p 3001 -w public/db.json" - локальный сервер
